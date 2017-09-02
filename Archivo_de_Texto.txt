@@ -1,4 +1,6 @@
 #Instalar Java JDK 8u144
+#AGREGUE NUEVO COMENTARIODEL DOCUMENTO PARA VER QUE CAMBIOS SE REGISTRAN AQUI
+#EN ESTE PRESENTE ARCHIVO
 mkdir /opt/jdk
 #extraer Java desde carpeta Descargas
 tar -zxf jdk-8u144-linux-x64.tar.gz -C /opt/jdk
